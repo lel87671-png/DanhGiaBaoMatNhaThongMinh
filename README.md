@@ -19,4 +19,4 @@
 ### Tuần 02
 - Hoàn thành Chương 1
 - Hoàn thành bản nháp Chương 2
-- Thu thập tài liệu tham khảo
+- Thu thập tài liệu tham khảo.
