@@ -1,1 +1,6 @@
 
+mqtt:
+  sensor:
+    - name: "Nhiệt độ phòng khách"
+      state_topic: "home/livingroom/temperature"
+      unit_of_measurement: "°C"
