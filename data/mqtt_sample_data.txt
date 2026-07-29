@@ -1,1 +1,10 @@
+MQTT Sample Data
 
+Topic: home/livingroom/temperature
+Payload: 22
+
+Topic: home/livingroom/temperature
+Payload: 72
+
+Topic: home/livingroom/temperature
+Payload: 99
